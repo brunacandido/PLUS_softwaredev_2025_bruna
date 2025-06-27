@@ -1,0 +1,9 @@
+name: a4-new-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - rasterio
+  - matplotlib
